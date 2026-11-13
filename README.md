@@ -35,6 +35,11 @@ The microbial heritage of Tunisia has already been investigated by Tunisian team
 - Griese J, MacLaren D, Bedri A, Gdah S, Rammeh M, et al. (2026). Investigation of the microbiota of historical parchment artifacts: bacterial and fungal communities and their potential for biodegradation. *International Biodeterioration & Biodegradation* 215:106438. https://doi.org/10.1016/j.ibiod.2026.106438 (Kairouan Manuscript Project, University of Hamburg and Institut National du Patrimoine)
 - Gtari M, Ghodhbane-Gtari F, Hezbri K and colleagues: culture-based taxonomy of new actinobacteria isolated from Tunisian monuments and stones (Hezbri et al., 2015-2018).
 
+## My own work in this field
+
+- Basile A, Riggio FP, Tescari M, Chebbi A, Sodo A, Bartoli F, Imperi F, Caneva G, Visca P (2025). Metagenome-resolved functional traits of *Rubrobacter* species implicated in rosy discoloration of ancient frescoes in two Georgian Cathedrals. *Science of the Total Environment* 958:178135. https://doi.org/10.1016/j.scitotenv.2024.178135
+- Turrini P, Chebbi A, Riggio FP, Visca P (2024). The geomicrobiology of limestone, sulfuric acid speleogenetic, and volcanic caves: basic concepts and future perspectives. *Frontiers in Microbiology* 15:1370520. https://doi.org/10.3389/fmicb.2024.1370520
+
 ## Note on the SRA figures
 
 The NCBI SRA counts shown in the slides (datasets, BioProjects and runs per country or site) are **approximate**. They come from keyword searches of the SRA done in November 2026, they depend on the search terms and on the counting unit, and they change as new data are deposited. Please read them as orders of magnitude, not exact values, and rerun the search before citing them.

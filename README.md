@@ -56,3 +56,5 @@ Contact: Alif Chebbi - ORCID [0000-0002-2770-1013](https://orcid.org/0000-0002-2
 ## Acknowledgements
 
 Thanks to the organisers and the Société Tunisienne de Microbiologie (STM) for the kind invitation, and especially to my professor, Hela Jaidane.
+
+My sincere thanks also go to all the people who have worked in this field, in Tunisia and elsewhere: the microbiologists, conservators, restorers, archaeologists, geologists and students whose sampling, lab work and publications made this talk possible. This lecture stands on their work.
